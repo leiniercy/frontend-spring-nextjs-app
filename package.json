@@ -20,6 +20,7 @@
     "jspdf-autotable": "^3.5.29",
     "next": "13.4.9",
     "postcss": "8.4.25",
+    "primeflex": "^3.3.1",
     "primeicons": "^6.0.1",
     "primereact": "^9.6.0",
     "react": "18.2.0",
