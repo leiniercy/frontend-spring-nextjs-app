@@ -44,7 +44,7 @@ class BookCrud extends Component {
                 <Panel header="Books" >
                     {/* Listdo de libros */}
                     {/* <BookTable books={this.state.books} /> */}
-                    <Tabla books={this.state.books} />
+                    <Tabla bookServices={this.bookServices} />
                 </Panel>
 
                 {/* Sms de de confirmacion */}
