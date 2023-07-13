@@ -1,10 +1,11 @@
 
 // styles
-import '@styles/globals.css';
+// import '@styles/globals.css';
 import "primereact/resources/themes/lara-light-indigo/theme.css";         
 import "primereact/resources/primereact.min.css";
 import 'primeicons/primeicons.css';
-//tailwind css
+import 'primeflex/primeflex.css';
+// tailwind css
 import '@styles/tailwind-all.css';
 import '@styles/tailwind-base.css';
 import '@styles/tailwind-components.css';

@@ -1,14 +1,13 @@
-import styles from '@styles/tailwind-all.css'; 
 
 //components
 import BookCrud from '@components/book_crud/BookCrud';
-
+import BookDataView from '@components/DataView/BookDataView';
 
 const Home = () => {
-    return (   
+    return (
         <section className="w-full flex-center flex-col">
-            
-            <BookCrud/>
+            {/* <BookCrud/> */}
+            <BookDataView />
         </section>
     )
 }
